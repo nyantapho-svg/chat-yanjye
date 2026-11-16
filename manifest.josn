@@ -1,6 +1,6 @@
 {
   "name": "Chat Yanjye",
-  "short_name": "Chat Yanjye",
+  "short_name": "Chat Yanjye","description": "Chat Yanjye - Kohereza ubutumwa nka WhatsApp",
   "id": "/chat-yanjye/",
   "start_url": "/chat-yanjye/",
   "display": "standalone",
